@@ -1,1 +1,0 @@
-The kernel file is too large, you should use the kernel.tar.gz.
